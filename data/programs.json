@@ -1,0 +1,101 @@
+[
+  {
+    "id": "amex-mr",
+    "name": "Membership Rewards",
+    "bank": "American Express",
+    "logo_url": "https://logo.clearbit.com/americanexpress.com",
+    "valuation_cpp": 1.9,
+    "description": "Flexible points currency earned from American Express consumer and business charge cards.",
+    "key_cards": [
+      "Amex Platinum",
+      "Amex Gold",
+      "Amex Business Platinum"
+    ]
+  },
+  {
+    "id": "chase-ur",
+    "name": "Ultimate Rewards",
+    "bank": "Chase",
+    "logo_url": "https://logo.clearbit.com/chase.com",
+    "valuation_cpp": 2.0,
+    "description": "Chase's transferable points currency earned on Sapphire and Ink cards.",
+    "key_cards": [
+      "Chase Sapphire Reserve",
+      "Chase Sapphire Preferred",
+      "Ink Business Preferred"
+    ]
+  },
+  {
+    "id": "citi-ty",
+    "name": "ThankYou Points",
+    "bank": "Citi",
+    "logo_url": "https://logo.clearbit.com/citi.com",
+    "valuation_cpp": 1.6,
+    "description": "Citi's flexible ThankYou points ecosystem.",
+    "key_cards": [
+      "Citi Premier",
+      "Citi Prestige",
+      "Citi Rewards+"
+    ]
+  },
+  {
+    "id": "capitalone",
+    "name": "Capital One Miles",
+    "bank": "Capital One",
+    "logo_url": "https://logo.clearbit.com/capitalone.com",
+    "valuation_cpp": 1.8,
+    "description": "Miles that transfer to 15+ airline partners at up to 1:1.",
+    "key_cards": [
+      "Capital One Venture X",
+      "Capital One Venture",
+      "Capital One Spark Miles"
+    ]
+  },
+  {
+    "id": "bilt",
+    "name": "Bilt Rewards",
+    "bank": "Bilt",
+    "logo_url": "https://logo.clearbit.com/biltrewards.com",
+    "valuation_cpp": 1.7,
+    "description": "Rent-paying cardholders earn transferable points with strong airline coverage.",
+    "key_cards": [
+      "Bilt Mastercard"
+    ]
+  },
+  {
+    "id": "wells",
+    "name": "Wells Fargo Rewards",
+    "bank": "Wells Fargo",
+    "logo_url": "https://logo.clearbit.com/wellsfargo.com",
+    "valuation_cpp": 1.5,
+    "description": "Newly revamped Wells Fargo rewards with Air France and Avianca transfers.",
+    "key_cards": [
+      "Wells Fargo Autograph Journey",
+      "Wells Fargo Autograph"
+    ]
+  },
+  {
+    "id": "marriott",
+    "name": "Marriott Bonvoy",
+    "bank": "Marriott",
+    "logo_url": "https://logo.clearbit.com/marriott.com",
+    "valuation_cpp": 0.7,
+    "description": "Hotel points that convert to 40+ airline partners with 5k bonuses on 60k transfers.",
+    "key_cards": [
+      "Marriott Bonvoy Brilliant",
+      "Marriott Bonvoy Bevy",
+      "Marriott Bonvoy Business"
+    ]
+  },
+  {
+    "id": "brex",
+    "name": "Brex Points",
+    "bank": "Brex",
+    "logo_url": "https://logo.clearbit.com/brex.com",
+    "valuation_cpp": 1.2,
+    "description": "Corporate spend platform offering transfers to major international airlines.",
+    "key_cards": [
+      "Brex Corporate Card"
+    ]
+  }
+]
